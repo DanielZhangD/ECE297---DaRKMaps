@@ -41,3 +41,5 @@ As this was made as part of UofT's ECE297 course, source code is unavailable to 
   
 </p>
 
+![image](https://user-images.githubusercontent.com/37020276/127938040-29503238-5412-4b2c-9d54-693b72c3f664.png)
+
